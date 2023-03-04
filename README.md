@@ -10,7 +10,7 @@ Add this to your module's `build.gradle` file:
 
 ```gradle
 dependencies {
-	...
+	
     implementation 'com.github.professorDeveloper:Dialog-Library:1.0.1'
 }
 ```
@@ -19,7 +19,7 @@ dependencies {
 <h3>Wifi Dialog</h3>
 
 ```kotlin
-        ...
+       
            val dialog = WifiDialog()
        dialog.show(supportFragmentManager, "wifi_dialog")
        dialog.createDialog("Google wifi", "Pixel 2 A", "i929uui4ui", "Wpa2")
@@ -29,7 +29,7 @@ dependencies {
            }
            override fun cancelButtonClicked() {}
        })
-        ...
+      
 ```
 <h3>Color Dialog</h3>
 
@@ -89,8 +89,7 @@ dependencies {
 
 ## Screenshot
 
-![Dialogs](https://github.com/Dan629pl/NordanMaterialDialog/blob/master/img/dialogs.png)
-
+![Untitled (2)](https://user-images.githubusercontent.com/108933534/222921972-fce8f015-48d6-4673-a444-792afda253b8.png)
 
 ## License
 
