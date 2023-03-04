@@ -1,7 +1,6 @@
-package com.example.dialoggit.classes
+package com.azamovhud.dialoggit.classes
 
 import android.app.Dialog
-import android.graphics.Color
 import android.os.Bundle
 import android.view.View
 import android.widget.DatePicker
@@ -10,7 +9,7 @@ import android.widget.TimePicker
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatDialogFragment
 import androidx.core.content.ContextCompat
-import com.example.dialoggit.R
+import com.azamovhud.dialoggit.R
 import com.google.android.material.tabs.TabLayout
 
 class DateAndTimeDialog : AppCompatDialogFragment() {
