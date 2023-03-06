@@ -11,7 +11,8 @@ Add this to your module's `build.gradle` file:
 ```gradle
 dependencies {
 	
-    implementation 'com.github.professorDeveloper:Dialog-Library:1.0.1'
+implementation 'com.github.professorDeveloper:Dialog-Library:1.0.2'
+
 }
 ```
 <h1>Material Dialog-Library</h1>
